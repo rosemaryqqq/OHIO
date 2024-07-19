@@ -1,0 +1,5 @@
+xlrd==2.0.1
+pandas==2.0.3
+flask==3.0.3
+Flask-RESTful==0.3.10
+python-dotenv==1.0.1
